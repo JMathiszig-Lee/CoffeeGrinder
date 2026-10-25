@@ -1,0 +1,3 @@
+# Optional laptop tools; the end-user installer needs only Python's standard library.
+pyserial==3.5
+Pillow==12.3.0
